@@ -14,6 +14,13 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
+
+@media only screen and (min-width: 600px) {
+    #test1 {
+      margin-left: 8vw;
+    }
+}
+
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
